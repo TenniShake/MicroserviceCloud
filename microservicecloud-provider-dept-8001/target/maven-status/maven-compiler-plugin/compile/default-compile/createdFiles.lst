@@ -1,0 +1,6 @@
+com\tenni\springcloud\DeptProvider8001_App.class
+com\tenni\springcloud\controller\DeptController.class
+com\tenni\springcloud\entities\Dept.class
+com\tenni\springcloud\dao\DeptDao.class
+com\tenni\springcloud\service\DeptService.class
+com\tenni\springcloud\service\impl\DeptServiceImpl.class
